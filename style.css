@@ -1,1 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Removes scrollbars */
+    background-color: #87CEEB; /* Sky blue background */
+}
 
+canvas {
+    display: block; /* Removes weird margins at the bottom of the canvas */
+}
